@@ -27,60 +27,20 @@
 
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│   Wasee — aka Wyzuk                                │
-│                                                    │
-│   > Web Development                                │
-│   > Browser Games                                  │
-│   > Discord Bots                                   │
-│   > AI Experiments                                 │
-│   > UI / UX                                        │
-│   > Random Ideas™                                  │
-│                                                    │
-│   "Why make something normal when you can make     │
-│    it unnecessarily cool?"                        │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+Wasee aka Wyzuk
+
+Focus:
+> Web Development
+> Browser Games
+> Discord Bots
+> AI Experiments
+> Operating System Development
+> Linux
 ```
 
 ---
 
-##  What I Build
 
-<table>
-<tr>
-<td width="50%">
-
-###  Browser Games
-
-I like making lightweight games that run directly in the browser.
-
-*  Snake
-*  Flappy Bird
-*  Arcade experiments
-*  Canvas-based games
-*  Retro & animated interfaces
-
-</td>
-
-<td width="50%">
-
-### 🤖 Bots & Software
-
-I also build random useful and useless software.
-
-*  Discord bots
-*  Marketplace systems
-*  AI experiments
-*  Automation
-*  Web applications
-
-</td>
-</tr>
-</table>
-
----
 
 ## My Skills
 
@@ -107,7 +67,7 @@ I also build random useful and useless software.
 <tr>
 <td width="50%" valign="top">
 
-## 🖥️ [Yumemiro OS](https://github.com/wyzuk/yumemiro-os)
+##  [Yumemiro OS](https://github.com/wyzuk/yumemiro-os)
 
 **Arch Linux-based operating system focused on performance, elegance, and customization.**
 
@@ -124,7 +84,7 @@ I also build random useful and useless software.
 
 <td width="50%" valign="top">
 
-## ⛏️ [YourCraft](https://github.com/wyzuk/yourcraft)
+##  [YourCraft](https://github.com/wyzuk/yourcraft)
 
 **A Minecraft-like browser game built with JavaScript.**
 
@@ -144,7 +104,7 @@ I also build random useful and useless software.
 
 <td width="50%" valign="top">
 
-## 🐦 [Flappy Wyzuk](https://github.com/wyzuk/flappy)
+##  [Flappy Wyzuk](https://github.com/wyzuk/flappy)
 
 **A high-octane browser game built from scratch with vanilla web technologies.**
 
@@ -158,7 +118,7 @@ I also build random useful and useless software.
 
 <td width="50%" valign="top">
 
-## 🐍 [Snake](https://github.com/wyzuk/snake)
+##  [Snake](https://github.com/wyzuk/snake)
 
 **A polished retro-style Snake game with levels, environments, obstacles, and animations.**
 
@@ -178,7 +138,7 @@ I also build random useful and useless software.
 
 ---
 
-# 📊 GitHub Statistics
+#  My github stats
 
 <div align="center">
 
@@ -194,7 +154,7 @@ I also build random useful and useless software.
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -208,13 +168,13 @@ I also build random useful and useless software.
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
-║                     CURRENT STATUS                         ║
+║                     My Interests                           ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
-║  🎮 Browser Games          ███████████████░░░  85%         ║
-║  🤖 Discord Projects       ████████████░░░░░░  70%         ║
-║  🌐 Web Projects           █████████████░░░░░  75%         ║
-║  🧪 Random Experiments     ██████████████████  100%        ║
+║     Browser Games          ███████████████░░░  85%         ║
+║     Discord Projects       ████████████░░░░░░  70%         ║
+║     Web Projects           █████████████░░░░░  75%         ║
+║     OS Developments        ██████████████████  100%        ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -235,7 +195,7 @@ I also build random useful and useless software.
 
 ---
 
-# 🌐 Find Me
+# Contact here...
 
 <div align="center">
 
@@ -255,7 +215,7 @@ I also build random useful and useless software.
 
 <div align="center">
 
-###  Thanks for stopping by.
+###  Thanks,hope you enjoyed..
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
