@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wyzuk/wyzuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Wasee (wyzuk)
 
-Here are some ideas to get you started:
+`Arch Linux Enthusiast` • `Python Developer` • `Automation & Bot Architect`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FFBF&center=true&vcenter=true&width=500&lines=Building+Discord+Infrastructure;Linux+Terminal+Tweaker;Python+%26+Backend+Automation)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Environment
+
+```text
+OS        : Arch Linux (Rolling)
+Shell     : Zsh / Bash
+Code      : Python, JavaScript, Bash Shell
+Frameworks: Discord.py, Flask, Asyncio
+Tooling   : Git, Linux Terminal Utilities, Process Managers (psutil/subprocess)
