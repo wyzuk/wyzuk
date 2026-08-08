@@ -23,9 +23,8 @@
 
 ---
 
-## 👋 Hey, I'm Wasee (Wyzuk)
+##  Hello, I'm Wasee (Wyzuk)
 
-I'm a developer who likes **building things, breaking things, and then somehow making them work again.**
 
 ```text
 ╭────────────────────────────────────────────────────╮
@@ -47,21 +46,21 @@ I'm a developer who likes **building things, breaking things, and then somehow m
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎮 Browser Games
+###  Browser Games
 
 I like making lightweight games that run directly in the browser.
 
-* 🐍 Snake
-* 🐦 Flappy Bird
-* 🕹️ Arcade experiments
-* ⚡ Canvas-based games
-* 🎨 Retro & animated interfaces
+*  Snake
+*  Flappy Bird
+*  Arcade experiments
+*  Canvas-based games
+*  Retro & animated interfaces
 
 </td>
 
@@ -71,11 +70,11 @@ I like making lightweight games that run directly in the browser.
 
 I also build random useful and useless software.
 
-* 🤖 Discord bots
-* 🛒 Marketplace systems
-* 🧠 AI experiments
-* ⚙️ Automation
-* 🌐 Web applications
+*  Discord bots
+*  Marketplace systems
+*  AI experiments
+*  Automation
+*  Web applications
 
 </td>
 </tr>
@@ -83,7 +82,7 @@ I also build random useful and useless software.
 
 ---
 
-## 🛠️ Tech I Play With
+## My Skills
 
 <div align="center">
 
@@ -100,30 +99,82 @@ I also build random useful and useless software.
 
 ---
 
-# 🎮 Featured Projects
+#  My Projects
 
 <div align="center">
 
-<a href="https://github.com/wyzuk/snake">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wyzuk&repo=snake&theme=github_dark&hide_border=true" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🖥️ [Yumemiro OS](https://github.com/wyzuk/yumemiro-os)
+
+**Arch Linux-based operating system focused on performance, elegance, and customization.**
+
+`Python`
+
+<a href="https://github.com/wyzuk/yumemiro-os">
+<img src="https://img.shields.io/github/stars/wyzuk/yumemiro-os?style=flat-square&color=58A6FF&label=Stars"/>
 </a>
+<a href="https://github.com/wyzuk/yumemiro-os">
+<img src="https://img.shields.io/github/forks/wyzuk/yumemiro-os?style=flat-square&color=58A6FF&label=Forks"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⛏️ [YourCraft](https://github.com/wyzuk/yourcraft)
+
+**A Minecraft-like browser game built with JavaScript.**
+
+`JavaScript`
+
+<a href="https://github.com/wyzuk/yourcraft">
+<img src="https://img.shields.io/github/stars/wyzuk/yourcraft?style=flat-square&color=58A6FF&label=Stars"/>
+</a>
+<a href="https://github.com/wyzuk/yourcraft">
+<img src="https://img.shields.io/github/forks/wyzuk/yourcraft?style=flat-square&color=58A6FF&label=Forks"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐦 [Flappy Wyzuk](https://github.com/wyzuk/flappy)
+
+**A high-octane browser game built from scratch with vanilla web technologies.**
+
+`JavaScript`
+
+<a href="https://github.com/wyzuk/flappy">
+<img src="https://img.shields.io/github/stars/wyzuk/flappy?style=flat-square&color=58A6FF&label=Stars"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐍 [Snake](https://github.com/wyzuk/snake)
+
+**A polished retro-style Snake game with levels, environments, obstacles, and animations.**
+
+`JavaScript`
+
+<a href="https://github.com/wyzuk/snake">
+<img src="https://img.shields.io/github/stars/wyzuk/snake?style=flat-square&color=58A6FF&label=Stars"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-### 🐍 Snake
-
-A fully browser-based retro Snake game with:
-
-* 🎨 Multiple Snake designs
-* 🌎 Multiple environments
-* 🧱 Obstacles
-* 🗺️ Level progression
-* ✨ Animations
-* 🏆 High scores
-* 🎮 Retro arcade UI
-* ⚡ Lightweight browser performance
-
-<a href="https://github.com/wyzuk/snake">→ View Snake on GitHub</a>
 
 ---
 
@@ -153,7 +204,7 @@ A fully browser-based retro Snake game with:
 
 ---
 
-# 🧠 Currently Building
+#  Currently Building
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
@@ -170,7 +221,7 @@ A fully browser-based retro Snake game with:
 
 ---
 
-# 🕹️ My Development Philosophy
+
 
 <div align="center">
 
@@ -204,11 +255,11 @@ A fully browser-based retro Snake game with:
 
 <div align="center">
 
-### ⚡ Thanks for stopping by.
+###  Thanks for stopping by.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
-**Made with ☕ + code by Wasee (Wyzuk)**
+**You can use / fork my codes! Thanks - Wasee**
 
 `github.com/wyzuk`
 
