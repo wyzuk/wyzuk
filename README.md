@@ -1,1 +1,1 @@
-![GIF](YOUR_DIRECT_GIF_URL)
+![Anime GIF](./anime.gif)
