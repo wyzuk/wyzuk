@@ -12,7 +12,7 @@
 
   <!-- Anime Girl Main GIF -->
   <p align="center">
-    <img src="./anime.gif" width="500" alt="Anime Aesthetic" />
+    <img src="[./anime.gif](https://i.pinimg.com/originals/d1/b5/3d/d1b53d8835e48385117d86281d4681cc.gif)" width="500" alt="Anime Aesthetic" />
   </p>
 
   <br>
